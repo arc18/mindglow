@@ -1,4 +1,4 @@
-h## Hier steht die Überschrift
+## Hier steht die Überschrift
 
 Weiter Informationen finden Sie auf [mindglow](https://www.mindglow.de).
 
@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 3. __Sonstiges__
 4. [Suchmaschine](https://www.google.com).
 
-h## __Neue Liste__
+## __Neue Liste__
 - Hier stehr was
 - Hier steht nochwas
 

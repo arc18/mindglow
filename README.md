@@ -1,6 +1,6 @@
 h## Hier steht die Überschrift
 
-Weiter Informationen finden Sie auf [mindglow](www.mindglow.de).
+Weiter Informationen finden Sie auf [mindglow](https://www.mindglow.de).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 1. Einkäufe
 2. ___Urlaub___
 3. __Sonstiges__
-4. [Suchmaschine](www.google.com).
+4. [Suchmaschine](https://www.google.com).
 
 ```markdown
 Syntax highlighted code block

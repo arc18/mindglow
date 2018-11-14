@@ -4,9 +4,10 @@ Weiter Informationen finden Sie auf [mindglow](www.mindglow.de).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Wichtige Sachen
+1. Einkäufe
+2. Urlaub
+3. Sonstiges
 
 ```markdown
 Syntax highlighted code block

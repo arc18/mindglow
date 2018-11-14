@@ -6,8 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Wichtige Sachen
 1. Einkäufe
-2. Urlaub
-3. Sonstiges
+2. ___Urlaub___
+3. __Sonstiges__
+4. [Suchmaschine](www.google.com).
 
 ```markdown
 Syntax highlighted code block

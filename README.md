@@ -14,6 +14,11 @@ h## __Neue Liste__
 - Hier stehr was
 - Hier steht nochwas
 
+Das ist ein Link zu einer [neuen Seite](../new.md).
+
+
+
+
 ```markdown
 Syntax highlighted code block
 

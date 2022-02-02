@@ -15,6 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Hier steht nochwas
 
 Das ist ein Link zu einer [neuen Seite](../new.md).
+Hier kommt ein Bild: ![Cover](https://exystence.net/wp-content/uploads/2022/02/Robbie-Lee-300x300.jpg)
 
 
 
@@ -34,7 +35,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Cover](https://exystence.net/wp-content/uploads/2022/02/Robbie-Lee-300x300.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

@@ -1,3 +1,9 @@
+---
+title: Seiten hallo
+layout: template
+filename: NEW.md
+--- 
+
 # arc18.github.io
 testsite github pages
 ## Wichtige Sachen

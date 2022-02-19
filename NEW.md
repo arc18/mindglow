@@ -1,8 +1,4 @@
----
-title: Seiten hallo
-layout: template
-filename: NEW.md
---- 
+
 
 # arc18.github.io
 testsite github pages
@@ -12,5 +8,4 @@ testsite github pages
 3. __Sonstiges__
 4. [Suchmaschine](https://www.google.com).
 
-## __Neue Liste__
-- Hier stehr was
+

@@ -16,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Das ist ein Link zu einer [neuen Seite](/NEW.md).
 
-Das ist ein Link zur [Testseite](./test.md).
+Das ist ein Link zur [Testseite](/test.md).
 
 
 Hier kommt ein Bild: ![Cover](https://exystence.net/wp-content/uploads/2022/02/Robbie-Lee-300x300.jpg)

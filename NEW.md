@@ -1,7 +1,3 @@
-
-
-# arc18.github.io
-testsite github pages
 ## Wichtige Sachen
 1. Einkäufe
 2. ___Urlaub___

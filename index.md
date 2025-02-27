@@ -4,7 +4,7 @@
 
 Vielleicht ist es eine gute Idee wöchentlich ein wenig auf die vergangenen Tage zurückzublicken.
 
-Hier kommt ein Bild []
+Hier kommt ein Bild [Cover](https://exystence.net/wp-content/uploads/2022/02/Robbie-Lee-300x300.jpg)
 Vielleichtnoch eins []
 
 

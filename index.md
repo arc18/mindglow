@@ -1,6 +1,6 @@
 ## Weeknotes
 
-# 22.02 - 28.02
+### 22.02 - 28.02
 
 Vielleicht ist es eine gute Idee wöchentlich ein wenig auf die vergangenen Tage zurückzublicken.
 
